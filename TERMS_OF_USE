@@ -1,94 +1,98 @@
+```markdown
 # BlossomVale — Terms of Use / Kullanım Şartları
 
-**Effective date:** 2025-01-01  
-**Author / Owner:** Cat_YaraliKomutan — https://github.com/catyaralikomutan
+**Effective date / Yürürlük tarihi:** 2025-11-10  
+**Author / Sahip:** Cat_YaraliKomutan — https://github.com/catyaralikomutan  
+**YouTube channel (preferred tag):** https://www.youtube.com/@Cat_YaraliKomutan
 
 ---
 
-## 1. Genel / Overview
-Bu belge, BlossomVale modunun kullanımı, yeniden dağıtımı ve atıf (attribution) kurallarını, sorumluluk reddini ve olası ihlal durumlarında izlenecek adımları açıklar. Kod MIT lisansı ile, varlıklar (assets) CC‑BY‑4.0 ile lisanslanabilir — repo içinde yer alan LICENSE ve ASSETS-LICENSE.md dosyalarına bakınız.
+## 1. Overview / Genel
 
-This document explains usage, redistribution and attribution rules for the BlossomVale mod, liability disclaimers, and takedown/enforcement procedures. Code is licensed under MIT; assets are licensed under CC‑BY‑4.0 as shipped (see LICENSE and ASSETS-LICENSE.md).
+This Terms of Use file describes how BlossomVale may be used, redistributed, credited, and what liabilities the author disclaims. Code is licensed under the included `LICENSE` (MIT). Non-code assets bundled with releases (textures, icons, sounds, models, etc.) are licensed under `ASSETS-LICENSE.md` (recommended: CC‑BY‑4.0). See those files for full legal texts.
 
----
-
-## 2. Attribution / Atıf (Zorunluluk)
-- Eğer modunuzu yeniden dağıtıyorsanız, bir modpack içinde kullanıyorsanız veya modun görüntülendiği bir video/stream açıklaması yazıyorsanız, lütfen aşağıdaki atıf metnini kullanın:
-
-  - Distribution / Modpack / Web pages:
-    "BlossomVale — by Cat_YaraliKomutan (https://github.com/catyaralikomutan) — Assets CC‑BY‑4.0, Code MIT."
-
-  - Video / Stream description:
-    "Mod: BlossomVale by Cat_YaraliKomutan — https://github.com/catyaralikomutan (Please credit author)"
-
-  - In‑game / credits:
-    "BlossomVale — created by Cat_YaraliKomutan"
-
-- Varlıklar (textures, icons, sounds, modeller vb.) CC‑BY‑4.0 ile lisanslıysa, CC‑BY şartlarına göre uygun atıf ve değişiklik bildirimi yapılması gereklidir.
-
-- Not: Sosyal medya etiketlemesi (örn. @Cat_YaraliKomutan) istenebilir; bu sosyal/etkileşimsel bir talep olup yasal zorunluluk oluşturması sınırlıdır — yine de lütfen saygı gösterin.
+Bu belge, BlossomVale modunun kullanım, yeniden dağıtım ve atıf kurallarını ile yazarın sorumluluk reddini açıklar. Kod için `LICENSE` (MIT) dosyasına, varlıklar için `ASSETS-LICENSE.md` dosyasına bakınız.
 
 ---
 
-## 3. İzinler ve Sınırlamalar / Permissions & Restrictions
-- Kod (source code): MIT lisansı gereğince herkes tarafından kopyalanabilir, değiştirilebilir, dağıtılabilir ve ticari amaçla kullanılabilir; ancak orijinal copyright ve izin bildirimi korunmalıdır.
-- Varlıklar (assets): CC‑BY‑4.0 gereğince atıf zorunludur; değişiklik yapıldığında bunu belirtmelisiniz.
-- Ticari paketler: Modu ticari bir ürün veya paket içinde kullanmadan önce yazara (Cat_YaraliKomutan) yazılı izin almanız önerilir; aksi durumda iletişim kurulacaktır.
+## 2. Attribution / Atıf (Lütfen Uyun)
+
+When distributing the mod, including it in a modpack, or showing it in public media (videos/streams), please include one of the following attribution lines:
+
+- Distribution / Modpack / Web pages:
+  "BlossomVale — by Cat_YaraliKomutan (https://github.com/catyaralikomutan) — Assets CC‑BY‑4.0, Code MIT."
+
+- Video / Stream description (YouTube preferred tag):
+  "Mod: BlossomVale by Cat_YaraliKomutan — https://github.com/catyaralikomutan — Please credit the author and tag https://www.youtube.com/@Cat_YaraliKomutan"
+
+- In‑game / credits:
+  "BlossomVale — created by Cat_YaraliKomutan"
+
+Varlıkları değiştirdiyseniz, değişiklikleri belirtin (ör. "Modified from original by [your name]"). CC‑BY‑4.0 şartlarına uyunuz.
+
+Note: Requesting a YouTube tag is a preferred/standard attribution request — include the channel link above in video descriptions or tags where possible. Requiring social-media tagging as a strict legal condition is difficult to enforce; still, please respect and follow this attribution in practice.
 
 ---
 
-## 4. Sorumluluk reddi / Liability & Warranty Disclaimer
-- Mod "OLDUĞU GİBİ" (AS IS) sağlanır. Yazar hiçbir koşulda doğrudan, dolaylı, özel, arızi veya sonuçsal zararlardan sorumlu tutulamaz (veri kaybı, sunucu hasarı, ticari kayıp vb.).
-- Kullanıcılar modu kendi riskleriyle kullanır; modun sunucu/oyun performansı, veri uyumluluğu veya diğer modlarla etkileşimleri konusunda garanti yoktur.
-- Bu sorumluluk reddi MIT lisans metni içinde de açıkça yer alır.
+## 3. Permissions & Restrictions / İzinler ve Sınırlamalar
+
+- Code: Licensed under MIT (`LICENSE`) — you may use, modify, distribute, and include in commercial works provided the original copyright and license notice remain.
+- Assets: Licensed as described in `ASSETS-LICENSE.md` (recommended CC‑BY‑4.0) — attribution is required.
+- If you want to use this mod or its assets in a commercial product or paid bundle, please contact the author for written permission at the GitHub Issues link below or via other contact methods.
 
 ---
 
-## 5. Kötüye kullanım / Malicious or Illegal Use
-- Modun yasadışı, zararlı veya hile amaçlı kullanımından doğan tüm hukuki ve etik sorumluluk kullanıcıya aittir.
-- Yazar, kötüye kullanım tespit ettiğinde ilgili platforma (CurseForge/Modrinth/GitHub vb.) bildirimde bulunma ve/veya dağıtıcıdan içeriğin kaldırılmasını talep etme hakkını saklı tutar.
+## 4. Liability & Warranty Disclaimer / Sorumluluk ve Garanti Reddi
+
+- The mod is provided "AS IS" with no warranties. The author is not liable for any damages, data loss, server issues, performance problems, or other losses arising from use of the mod.
+- Users install and run the mod at their own risk.
+- This disclaimer is consistent with the MIT license terms included in `LICENSE`.
 
 ---
 
-## 6. İhlal tespit ve yaptırım / Enforcement & Takedown
-- Lisans koşullarının ihlali (ör. attribution kaldırma, asset lisansı ihlali) tespit edilirse:
-  1. Önce ihlal yapan tarafla yazılı uyarı gönderilir.
-  2. Uyarı cevapsız kalırsa, ilgili platforma (modpack host, video platformu, GitHub vb.) DMCA/licensing takibi veya takdir edilecek diğer yasal yollar başlatılabilir.
-- Lütfen önce iletişime geçin; çoğu durumda düzeltme ile sorun çözülür.
+## 5. Malicious or Illegal Use / Kötüye Kullanım
+
+- Any illegal, malicious, or rule-violating use of this mod (cheating, harming servers/players, distributing malware, etc.) is the sole responsibility of the user performing that action.
+- The author expressly disclaims responsibility for misuse. If misuse or harm is reported, the author may request removal of the mod from the offending distribution or contact relevant platform maintainers.
 
 ---
 
-## 7. Değişiklikler ve sürüm / Changes
-- Bu Terms of Use metni zaman içinde güncellenebilir. Yeni sürümler repo ana sayfasında veya release notlarında duyurulacaktır.
-- Modu dağıtmaya devam etmeden önce TERMS_OF_USE.md dosyasının sürüm tarihini kontrol edin.
+## 6. Enforcement & Takedown / İhlal ve Kaldırma Süreci
+
+If license terms or attribution requirements are violated:
+
+1. The author will attempt to notify the distributor/pack maintainer and request correction.
+2. If unresolved, the author may file takedown or DMCA/licensing reports with the hosting platform (GitHub, Modrinth, CurseForge, YouTube, etc.) or pursue other legal remedies.
+
+Please contact the author first to resolve issues amicably.
 
 ---
 
-## 8. İletişim / Contact
-- İzin talepleri, ticari kullanımlar veya ihlal bildirimleri için:
-  - GitHub Issues: https://github.com/catyaralikomutan/blossomvale/issues
-  - E‑posta (isteğe bağlı / ekleyin): [email@example.com]
+## 7. Contact / İletişim
+
+- GitHub Issues (preferred for license/enforcement or permission requests):  
+  https://github.com/catyaralikomutan/blossomvale/issues
+- YouTube (preferred for video tagging):  
+  https://www.youtube.com/@Cat_YaraliKomutan
+- If you need a specific commercial license or written permission, open an Issue or provide your contact details in a message to the author.
 
 ---
 
-## 9. Hukuki uyarı / Legal note
-- Bu belge bağlayıcı bir yasal sözleşme oluşturabilir ancak kesin bağlayıcılık ve yoruma dair ayrıntılar ülkenize göre değişir. Kesin ve bağlayıcı hukuki tavsiye için bir avukata danışmanızı öneririm.
+## 8. Changes / Değişiklikler
+
+This Terms of Use may be updated. Check the repository root for the latest `TERMS_OF_USE.md` before redistributing. Continued distribution after updates implies acceptance of the updated terms.
 
 ---
 
-## 10. Dosya adlandırma ve başlık (capitalization) önerisi / File naming & heading case
-- Repo kökünde `LICENSE` adlı dosya kullanın (büyük harf, GitHub LICENSE algılama için yaygın konvansiyon).
-- Terms dosyası için `TERMS_OF_USE.md` veya `TERMS.md` kullanabilirsiniz; büyük harf + alt çizgi yaygın ve nettir.
-- İçerideki başlıkların (Markdown H1/H2) büyük/küçük harf kullanımı hukuki geçerliliği etkilemez — tercih:
-  - Dosya adları: `LICENSE` (büyük), `TERMS_OF_USE.md` (büyük) — tavsiye edilir.
-  - İç başlıklar: okunabilirlik için "Title Case" veya "Sentence case" kullanın. Örnek: "Liability Disclaimer" (Title Case) veya "Liability disclaimer" (sentence case). Tutarlılık önemlidir.
-- Özet: dosya isimlerini büyük harfle koyun; içerik başlıklarında tutarlı ve okunaklı bir stil seçin.
+## 9. File naming & capitalization / Dosya isimleri ve büyük harf kullanımı
+
+- Place this file at the repository root as `TERMS_OF_USE.md` (uppercase with underscores) — GitHub and users commonly recognize this.
+- Keep the license file named `LICENSE` (all caps) in the repo root.
+- Internal headings may use Title Case for readability; capitalization in headings does not change legal meaning.
 
 ---
 
-### Attribution — kısa metin (kopyala/yapıştır)
-"BlossomVale — by Cat_YaraliKomutan (https://github.com/catyaralikomutan) — Assets CC‑BY‑4.0, Code MIT."
+## 10. Legal note / Hukuki not
 
----
-
-Teşekkürler — TERMS_OF_USE.md ve LICENSE dosyalarını hazırladım; LICENSE dosyasını repo köküne `LICENSE` olarak koy, TERMS_OF_USE.md'yi de köke ekle. Dosya adlarında büyük harf kullanımı GitHub ve birçok platformda standarttır; iç başlıkları ise okunabilirlik için Title Case kullanmanı öneririm. Eğer istersen bu dosyaları direkt olarak repo'na nasıl ekleyeceğine dair adım adım gh/git komutlarını da hazırlayıp veririm.
+I am not a lawyer. This document is practical guidance to make attribution, liability, and enforcement expectations clear. For binding legal advice or a custom enforceable agreement (for example, to require mandatory social‑media tagging as a legal condition), consult a qualified attorney.
+```
