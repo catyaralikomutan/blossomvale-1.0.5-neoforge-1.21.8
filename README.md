@@ -1,4 +1,9 @@
 ```markdown
+
+# Modun son sürümü 1.0.85'tir, daha fazla güncelleme olmayabilir.
+
+# The latest version of the mod is 1.0.85, there may not be more updates.
+
 # BlossomVale
 
 BlossomVale — NeoForge için pastel-çiçek temalı ağaç ve biyom modu.
